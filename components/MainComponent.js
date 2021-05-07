@@ -22,6 +22,8 @@ const mapDispatchToProps = {
     fetchPartners
 };
 
+
+//comment
 const DirectoryNavigator = createStackNavigator(
     {
         Directory: { 
